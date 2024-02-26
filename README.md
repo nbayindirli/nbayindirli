@@ -1,4 +1,4 @@
-##### ⛓️ building the future of lending with @[Prime-Protocol](https://github.com/Prime-Protocol)
+##### ⛓️ building the future of lending [@Prime-Protocol](https://github.com/Prime-Protocol)
 ##### ☕️ if you'd like to grab a coffee, cut an issue against the [nbayindirli repo](https://github.com/nbayindirli/nbayindirli)
 
 ---
